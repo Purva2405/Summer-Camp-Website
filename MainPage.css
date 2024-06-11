@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+html {
+    background-color: #333232;
+    height: 100%;
+}
+.font {
+    text-align: left;
+    font-family: "Poppins", sans-serif;
+    cursor: pointer;
+    font-size: 19px;
+    color: #8AD392;
+}
+.font .btn {
+    background: #2E94E3;
+    color: white;
+	border: none;
+	width: 150px;
+	height: 40px;
+	font-size: 15px;
+	font-weight: 600;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	border-radius: 5px;
+	transition: 0.3s;
+	transition-property: background;
+	cursor: pointer;
+}
+.font .btn:hover {
+	background:  #0582E3;
+}
+.font{
+	text-align: left;
+    font-family: "Poppins", sans-serif;
+    cursor: pointer;
+    font-size: 19px;
+    color: #8AD392;
+}
+.font1 .btn{
+	float: right;
+    background: #2E94E3;
+    color: white;
+	border: none;
+	width: 350px;
+	height: 40px;
+	font-size: 15px;
+	font-weight: 600;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	border-radius: 5px;
+	transition: 0.3s;
+	transition-property: background;
+	cursor: pointer;
+}
+.font1 .btn:hover {
+	background:  #0582E3;
+}
+.font2 .btn{
+	float: left;
+    background: #2E94E3;
+    color: white;
+	border: none;
+	width: 350px;
+	height: 40px;
+	font-size: 15px;
+	font-weight: 600;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	border-radius: 5px;
+	transition: 0.3s;
+	transition-property: background;
+	cursor: pointer;
+}
+.font2 .btn:hover {
+	background:  #0582E3;
+}
